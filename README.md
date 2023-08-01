@@ -1,2 +1,3 @@
-# SigmaBackup
- Simple Backup Tool
+#Simple Backup Tool
+
+Copy source folder to destination folder and perform integrity checks
